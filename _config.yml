@@ -78,4 +78,9 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+## Use git to deploy
+  type: git
+## The address of the repo
+  repo: https://github.com/lzcwr/lzcwr.github.io.git
+## The branch
+  branch: master
