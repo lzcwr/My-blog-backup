@@ -79,27 +79,27 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 ## Use git to deploy
-  type: git
+    type: git
 ## The address of the repo
-  repo: git@github.com:lzcwr/lzcwr.github.io.git
+    repo: git@github.com:lzcwr/lzcwr.github.io.git
 ## The branch
-  branch: master
+    branch: master
 
 jsonContent:
     meta: false
     pages: false
     posts:
-      title: true
-      date: true
-      path: true
-      text: true
-      raw: false
-      content: false
-      slug: false
-      updated: false
-      comments: false
-      link: false
-      permalink: false
-      excerpt: false
-      categories: false
-      tags: true
+    title: true
+    date: true
+    path: true
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
