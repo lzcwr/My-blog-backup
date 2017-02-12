@@ -90,7 +90,7 @@ donation:
       imgUrl: /images/qr-wechat.png
     - type: 支付宝
       text: 支付宝扫一扫
-      imgUrl: /images/qr-alipay.png
+      imgUrl: /images/qr-alipay.jpg
 
 
 
@@ -141,9 +141,9 @@ about:
   - type: me
     icon: icon-user
     text_value:
-    - "Scut，1991，Spring."
-    - "喜欢设计，擅长编程，喜欢睡懒觉."
-    - "前端开发工程师，常用 HTML / CSS / JavaScript."
+    - "Beijing Normal University. CIST & MATH."
+    - "数学系，会写一点代码，喜欢玩各种东西."
+    - "喜欢运动——打篮球、乒乓球."
   - type: Github
     icon: icon-github
     text_key: Github
