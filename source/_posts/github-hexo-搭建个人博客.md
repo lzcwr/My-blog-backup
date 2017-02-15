@@ -27,6 +27,7 @@ Enter file in which to save the key (/Users/xxxx/.ssh/id_rsa):
  - 建立一个github仓库，标题是`XXX.github.io`；
  -  安装Node.js：直接在Node.js[官网][4]下载最新版本并安装；
  - 安装hexo（必须在安装Node.js之后进行）：在git bash中输入`npm install -g hexo `；
+ - 安装hexo所需的依赖包：执行`npm install`；
  - 任意建一个名为“hexo”文件夹。
 ——以上就是搭建博客所需的所有环境。
 
@@ -79,6 +80,22 @@ git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
  - 按照markdown语法编辑该文件并保存；
  - 运行`hexo generate`；
  - 运行`hexo deploy`即可完成部署。
+
+#### 问题的解决
+在执行`hexo d`时，可能会出现提示：
+
+```
+ERROR Deployer not found: git
+```
+
+此时，需要执行如下命令：
+
+```
+npm install hexo-deployer-git --save
+```
+
+安装完成后再执行`hexo d`即可。
+
 
 ### 博客源码的更新
 
