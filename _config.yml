@@ -9,7 +9,7 @@ description: BNU数学院ACMer篮球乒乓球最高水平
 author: lzcwr
 email: lzcwr@lizhechen.com
 keywors: ACM, 算法, 数学, 代码, 编程
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -65,7 +65,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fexo
+theme: Yelee
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
