@@ -225,6 +225,12 @@ hexo version  # 查看Hexo的版本
  - 撰写新文章：`hexo new "postName"`，`hexo g`，`hexo d`；
  - 更新源码：git操作（`add`，`commit`，`push`）。
 
+ ## 可能遇到的其他问题
+
+### Hexo与Mathjax的冲突
+
+参见[Lzcwr——Hexo与Mathjax的冲突及（部分）解决][12]。
+
 
  
 
@@ -240,3 +246,4 @@ hexo version  # 查看Hexo的版本
   [9]: https://github.com/forsigner/fexon/hexo-theme-yilia
   [10]: https://github.com/iissnan/hexo-theme-next
   [11]: https://github.com/MOxFIVE/hexo-theme-yelee
+  [12]: http://www.lizhechen.com/2017/03/08/Hexo%E4%B8%8EMathjax%E7%9A%84%E5%86%B2%E7%AA%81%E5%8F%8A%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%E8%A7%A3%E5%86%B3/

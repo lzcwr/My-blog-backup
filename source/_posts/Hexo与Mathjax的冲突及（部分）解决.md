@@ -66,9 +66,16 @@ em: /^\b_((?:[^_]|__)+?)_\b|^\*((?:\*\*|[\s\S])+?)\*(?!\*)/,
 em:/^\*((?:\*\*|[\s\S])+?)\*(?!\*)/,
 ```
 
+## 参考资料
+
+- [SegmentFault——Hexo下mathjax的转义问题][2]
+- [空念远兮——在 Hexo 中完美使用 Mathjax 输出数学公式][3]
+
 -----
 **垃圾Hexo！！！**
 -----
 
 
   [1]: http://liam0205.me/2015/09/09/fix-conflict-between-mathjax-and-markdown/
+  [2]: https://segmentfault.com/a/1190000007261752
+  [3]: http://lukang.me/2014/mathjax-for-hexo.html
