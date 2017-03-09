@@ -15,7 +15,7 @@ Markdwon本身的特殊符号与Latex中的符号会出现冲突：
 | `\\` | 转义为`\` |换行|
 | `*` |加粗|无变化|
 
-这些问题是存在于Markdown语法中的，然而辣鸡hexo默认使用marked.js解析markdown，于是表示斜体的`_`会被处理为<em>标签，如`x_i`在开始被渲染的时候，处理为`x<em>i</em>`，这个时候Mathjax就无法将其渲染成下标了。
+这些问题是存在于Markdown语法中的，然而辣鸡Hexo默认使用marked.js解析markdown，于是表示斜体的`_`会被处理为`<em>`标签，如`x_i`在开始被渲染的时候，处理为`x<em>i</em>`，这个时候Mathjax就无法将其渲染成下标了。
 类似的问题还有很多，比如`*`和`\`字符。
 所以从根本上来讲，是辣鸡Hexo使用的Markdown引擎造成的。。垃圾Hexo。。
 
@@ -33,14 +33,14 @@ Markdwon本身的特殊符号与Latex中的符号会出现冲突：
 
 ## 解决方案三：更换引擎
 
-既然这个marked.js这么烂，我们干脆把它换掉好了，简单粗暴没有后患。替代marked.js的方案有很多，只以`hexo-renderer-pandoc`为例：
+既然这个marked.js这么烂，我们干脆把它换掉好了，简单粗暴没有后患。替代marked.js的方案有很多，只以`Hexo-renderer-pandoc`为例：
 
 - 安装Pandoc，官网提供了deb安装包，按照官网教程就可以安装完成。
 - 卸载Hexo默认的markd,再安装新的:
 
 ```
-npm uninstall hexo-renderer-marked --save
-npm install hexo-renderer-pandoc --save
+npm uninstall Hexo-renderer-marked --save
+npm install Hexo-renderer-pandoc --save
 ```
 
 这种解决方案的一点小瑕疵是语法与Markdown有很小的差别，需要注意一下。
@@ -67,7 +67,7 @@ em:/^\*((?:\*\*|[\s\S])+?)\*(?!\*)/,
 ```
 
 -----
-**垃圾HEXO！！！**
+**垃圾Hexo！！！**
 -----
 
 
