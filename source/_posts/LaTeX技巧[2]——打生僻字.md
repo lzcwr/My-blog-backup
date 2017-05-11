@@ -1,5 +1,5 @@
 ---
-title: LaTeX打生僻字
+title: LaTeX技巧[1]——打生僻字
 date: 2017-04-04 00:40:59
 tags: LaTeX
 description: "LaTeX 打一些生僻字."
