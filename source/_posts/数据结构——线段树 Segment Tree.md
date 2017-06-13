@@ -1,7 +1,10 @@
 ---
 title: 数据结构——线段树 Segment Tree
 date: 2017-02-17 17:37:37
-tags: 数据结构
+categories: ACM
+tags:
+ - 数据结构
+ - 线段树
 description: "数据结构之线段树的原理与应用."
 ---
 

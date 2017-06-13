@@ -1,7 +1,9 @@
 ---
 title: Hexo与Mathjax的冲突及（部分）解决
 date: 2017-03-08 23:28:08
-tags: Web
+categories: Web
+tags:
+ - hexo
 description: "垃圾Hexo."
 ---
 

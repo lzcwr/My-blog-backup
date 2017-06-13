@@ -1,7 +1,9 @@
 ---
 title: github+hexo 搭建个人博客
 date: 2017-02-12 13:05:29
-tags: Web
+categories: Web
+tags:
+ - hexo
 description: "github+hexo 搭建博客详细过程."
 ---
  - **本文针对的主要是Windows用户，不过总体步骤和Linux/Mac大同小异。**

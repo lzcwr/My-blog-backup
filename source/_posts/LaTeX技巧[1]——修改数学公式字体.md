@@ -1,7 +1,9 @@
 ---
 title: LaTeX技巧[2]——修改数学公式字体
 date: 2017-04-04 00:00:22
-tags: LaTeX
+categories: 代码学习
+tags:
+ - LaTeX
 description: "LaTeX 修改数学公式字体."
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: Mathematica技巧[1]——图像复原与处理
 date: 2017-02-16 20:30:17
-tags: Mathematica
+categories: 代码学习
+tags:
+ - Mathematica
 description: "对Mathematica Inpaint函数功能及用法的普及性介绍."
 ---
 

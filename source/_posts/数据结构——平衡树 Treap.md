@@ -1,7 +1,10 @@
 ---
 title: 数据结构——平衡树 Treap
 date: 2017-02-18 22:02:59
-tags: 数据结构
+categories: ACM
+tags:
+ - 数据结构
+ - 平衡树
 description: "数据结构之平衡树（树堆）的原理与应用."
 ---
 

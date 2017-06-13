@@ -1,7 +1,10 @@
 ---
 title: 数据结构——树状数组 Binary Indexed Tree
 date: 2017-02-21 23:22:24
-tags: 数据结构
+categories: ACM
+tags:
+ - 数据结构
+ - 树状数组
 description: "数据结构之树状数组的原理与应用."
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: LaTeX技巧[1]——打生僻字
 date: 2017-04-04 00:40:59
-tags: LaTeX
+categories: 代码学习
+tags:
+ - LaTeX
 description: "LaTeX 打一些生僻字."
 ---
 

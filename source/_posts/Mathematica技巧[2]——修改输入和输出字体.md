@@ -1,7 +1,9 @@
 ---
 title: 'Mathematica技巧[2]——修改输入和输出字体'
 date: 2017-05-09 20:55:31
-tags: Mathematica
+categories: 代码学习
+tags:
+ - Mathematica
 description: "在Mathematica中永久性修改输入和输出字体."
 ---
 
