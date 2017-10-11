@@ -68,7 +68,7 @@ fancybox: false
 
 <div style="text-align: center">
 不如休息一下，听听歌  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=625096&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=625568&auto=1&height=66"></iframe>
 </div>
 
 <!--[1]: http://olgwnj89q.bkt.clouddn.com/aaa.gif-->
