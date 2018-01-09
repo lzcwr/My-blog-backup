@@ -9,7 +9,7 @@ description: "自然数集上的Lp范数与函数空间上的Lp范数."
 
 ## $L^p(\Omega,\mu)$ 空间
 
-$1\leqslant p<\infty$, 设 $(\Omega,\mathscr{B},\mu)$ 是一个测度空间, $u$ 是 $\Omega$ 上的可测函数且 $|u(x)^p$ 在 $\Omega$ 可积. 则记这样 $u$ 的全体为 $L^p(\Omega,\mu)$.
+$1\leqslant p<\infty$, 设 $(\Omega,\mathscr{B},\mu)$ 是一个测度空间, $u$ 是 $\Omega$ 上的可测函数且 $|u(x)^p|$ 在 $\Omega$ 可积. 则记这样 $u$ 的全体为 $L^p(\Omega,\mu)$.
 
 在 $L^p(\Omega,\mu)$ 中几乎处处相等的函数视为同一个函数后, $L^p(\Omega,\mu)$ 仍为线性空间. 定义
 $$\Vert u\Vert=\left(\int\nolimits_\Omega \vert u(x)^p\vert {\rm d}\mu\right)^\frac{1}{p}$$
