@@ -92,5 +92,9 @@ sitemap:
 baidusitemap:
 path: baidusitemap.xml
 
+search:
+  path: search.xml
+  field: all
+
 # plugins:
 # - hexo-renderer-mathjax
